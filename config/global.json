@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "HavTilKoekken": {
+            "applicationId": "G6f0tlhKFnkxywsVI8hMAoqkes5s9iEarcEkwSjQ",
+            "masterKey": "mkZzguBTOgHYuDaYjUQcPdvKqqoX8liTtmzzfqgN"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "HavTilKoekken"
         }
     }, 
     "global": {
